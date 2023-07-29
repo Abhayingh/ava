@@ -1,0 +1,102 @@
+.div1 {
+    height: 660px;
+    width: 1350px;
+    background-image: url(background\ image.html );
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.div2 {
+    height: 100px;
+    width: 1350px;
+}
+
+.a1 {
+    height: 30px;
+    width: 100px;
+    text-decoration: none;
+    color: white;
+    float: left;
+    font-size: 30px;
+    text-align: left;
+    position: relative;
+    bottom: 40px;
+    left: 600px;
+    transition: all 1s ease-in-out;
+}
+
+.a1:hover {
+    transform: scale(2);
+}
+
+* {
+    padding: 0;
+    margin: 0;
+}
+
+.a2 {
+    height: 30px;
+    width: 100px;
+    text-decoration: none;
+    color: white;
+    float: left;
+    font-size: 30px;
+    text-align: center;
+    position: relative;
+    bottom: 40px;
+    left: 750px;
+    transition: all 1s ease-in-out;
+}
+
+.a2:hover {
+    transform: scale(2);
+}
+
+.h1-1 {
+    height: 30px;
+    width: 300px;
+    color: lightseagreen;
+}
+
+.h1-2 {
+    height: 30px;
+    width: 37px;
+    color: rgb(227, 23, 118);
+    text-align: right;
+}
+
+.div3 {
+    height: 450px;
+    width: 800px;
+    background-color: white;
+    opacity: 0.6;
+    margin: auto;
+}
+
+.h1-3 {
+    text-align: center;
+    padding-top: 10px;
+}
+
+.pre1 {
+    font-size: 20px;
+    padding-top: 10px;
+    position: relative;
+    left: 300px;
+}
+
+.pre2 {
+    font-size: 20px;
+}
+
+.pre4 {
+    font-size: 20px;
+}
+
+.pre5 {
+    font-size: 20px;
+}
+
+.pre6 {
+    font-size: 20px;
+}
